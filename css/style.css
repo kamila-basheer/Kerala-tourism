@@ -11,9 +11,9 @@
     width: 100%;
 } */
 
-.carousel {
+/* .carousel {
     height: 900px;
-  }
+  } */
   
   .carousel-item,
   .carousel-inner,
@@ -26,6 +26,10 @@
   .carousel-item {
     text-align: center;
   }
+
+  .slideshow{
+    background-color: black;
+}
 
 #aboutKerala{
     background-color: black;
