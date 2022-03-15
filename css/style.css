@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* img{
+    object-fit: cover;
+    max-height: 900px;
+    width: 100%;
+} */
+
+.carousel {
+    height: 900px;
+  }
+  
+  .carousel-item,
+  .carousel-inner,
+  .carousel-inner img {
+    object-fit: cover;
+    height: 100%;
+    width: auto;
+  }
+  
+  .carousel-item {
+    text-align: center;
+  }
+
+#aboutKerala{
+    background-color: black;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#districtsPage{
+    background-color:cadetblue;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+
+
+.welcome{ 
+    
+    color:beige;
+    text-decoration: solid;   
+}
+
+
+/* h5{
+    font-family: 'Courier New', Courier, monospace;
+    color:beige !important;   
+} */
+
+.description{
+    
+    color:gray; 
+    text-align: justify; 
+    text-decoration: solid;  
+}
+
+.heading{
+    text-align: center;
+    color: black;
+
+}
+
+.description1{
+    text-align: justify;
+    color: beige;
+}
+
+.map{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.districtfont{
+    color: bisque;
+    text-align: center;
+}
+
+.dist{
+    background-color:darkcyan;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.individual{
+    background-color: lightslategrey;
+}
